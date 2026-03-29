@@ -1,4 +1,9 @@
 # 🚢 Titanic Survival Prediction (Machine Learning Project)
+## ⭐ Project Highlights
+- End-to-end ML project (data → model → evaluation)
+- Feature engineering improved accuracy from 73% → 82%
+- Compared Logistic Regression, Decision Tree, Random Forest
+- Identified key survival factors using feature importance
 
 ## 📌 Problem Statement
 The goal of this project is to predict whether a passenger survived the Titanic disaster using machine learning techniques.
